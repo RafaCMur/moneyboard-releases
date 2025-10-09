@@ -1,49 +1,37 @@
-# 💰 MoneyBoard — Official Releases
+# MoneyBoard — Official Releases
 
-Welcome to the **official release repository** for **MoneyBoard**, the personal finance app built by [SELTORE LLC](https://seltore.com).
+This repository contains the official builds of MoneyBoard for Windows, macOS, and Linux.
 
-Here you can find all installers and builds for **Windows**, **macOS**, and **Linux**.
+You can always find the latest version on the [Releases](https://github.com/RafaCMur/moneyboard-releases/releases/latest) page.
 
 ---
 
-## 🔽 Download the Latest Version
-
-👉 **[Download Latest Release](https://github.com/RafaCMur/moneyboard-releases/releases/latest)**
+## Latest version
 
 | Platform | File | Description |
-|-----------|------|--------------|
-| 🪟 **Windows** | `moneyboard-setup.exe` | Installer for Windows 10/11 |
-| 🍎 **macOS** | `moneyboard-macos-x64.zip` / `moneyboard-macos-arm64.zip` | Intel & Apple Silicon versions |
-| 🐧 **Linux** | `moneyboard_amd64.deb` / `moneyboard-x86_64.AppImage` | Debian/Ubuntu and AppImage builds |
+|-----------|------|-------------|
+| Windows | `moneyboard-setup.exe` | Installer for Windows 10 and 11 |
+| macOS | `moneyboard-macos-x64.zip` / `moneyboard-macos-arm64.zip` | Intel and Apple Silicon versions |
+| Linux | `moneyboard_amd64.deb` / `moneyboard-x86_64.AppImage` | Debian/Ubuntu package and AppImage |
 
 ---
 
-## 🕐 Previous Versions
+## Previous versions
 
-You can browse all older versions [here](https://github.com/RafaCMur/moneyboard-releases/releases).
-
-Each release includes:
-- Platform-specific binaries  
-- SHA256 checksums  
-- Changelog for that version  
+Older versions can be found in the [Releases](https://github.com/RafaCMur/moneyboard-releases/releases) section.  
 
 ---
 
-## 🔒 Privacy & Legal
+## Privacy and License
 
-- [Privacy Policy](https://moneyboard.seltore.com/privacy)
-- [Terms of Use](https://moneyboard.seltore.com/terms)
+- [Privacy Policy](https://moneyboard.seltore.com/privacy)  
 - [License](https://moneyboard.seltore.com/license)
 
-Always download from this repository or the official website to ensure authenticity.
+Please download only from this repository or the official website to ensure authenticity.
 
 ---
 
-## 🧠 About MoneyBoard
+## About
 
-MoneyBoard helps you **track income, expenses, and investments** with a clean, privacy-first design.  
-Learn more at 👉 [moneyboard.seltore.com](https://moneyboard.seltore.com)
-
----
-
-© 2025 [SELTORE LLC](https://seltore.com). All rights reserved.
+MoneyBoard is a personal finance application focused on simplicity, privacy, and clarity.  
+Learn more at [moneyboard.seltore.com](https://moneyboard.seltore.com)
