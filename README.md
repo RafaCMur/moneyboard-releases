@@ -16,6 +16,9 @@ You can always find the latest version on the [Releases](https://github.com/Rafa
 
 ---
 
+![dashboard](https://github.com/user-attachments/assets/d09f5fbe-082d-4f03-a91f-ba2717b128f1)
+
+
 ## Previous versions
 
 Older versions can be found in the [Releases](https://github.com/RafaCMur/moneyboard-releases/releases) section.  
