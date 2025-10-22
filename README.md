@@ -1,5 +1,7 @@
 # MoneyBoard — Official Releases
 
+[![Website](https://img.shields.io/badge/Website-moneyboard.seltore.com-1e3c72?style=for-the-badge)](https://moneyboard.seltore.com)
+
 This repository contains the official builds of MoneyBoard for Windows, macOS, and Linux.
 
 You can always find the latest version on the [Releases](https://github.com/RafaCMur/moneyboard-releases/releases/latest) page.
